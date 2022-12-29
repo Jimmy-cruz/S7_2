@@ -1,0 +1,29 @@
+.header{
+    background-color: red;
+    color: white;
+    height: 100px;
+    
+
+}
+.titulo{
+    position: relative;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+
+.container{
+    background-color: azure;
+    margin-top: 10%;
+    height: 600px;
+    padding-top: 80px;
+    padding-left: 50px;
+}
+
+.info{
+    
+    height: 400px;
+}
+
+.btn-success{
+    margin-left: 5px;
+}
